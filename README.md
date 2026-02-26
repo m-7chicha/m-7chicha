@@ -25,8 +25,8 @@ Welcome to my little corner on GitHub! Here, I experiment, create, and learn. Wh
 
 ## Connect with Me
 
-📧 **Email:** `_________________`  
-💼 **LinkedIn:** `_________________`  
+📧 **Email:** `bouguenaramouad@gmail.com`  
+💼 **LinkedIn:** `https://www.linkedin.com/in/mouad-bouguenara-4714a73a6/`  
 
 ---
 > – m-7chicha  
