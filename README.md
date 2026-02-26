@@ -1,34 +1,51 @@
-# Hi there 👋, I’m **m-7chicha!**
+# Hi 👋 I’m Mouad (**m-7chicha!**)
 
-**Creative Explorer | Digital Marketing Student | UI/UX Designer | Writer | Video Editor**  
+**AI Engineer | Systems Builder | Digital Strategy Thinker**  
 
-Welcome to my little corner on GitHub! Here, I experiment, create, and learn. Whether it’s designing smooth interfaces in Figma, editing dynamic videos, or exploring the endless world of digital marketing, I love turning ideas into something tangible and fun.  
+I design and build practical, real-world solutions that combine intelligent systems, user-centered design, and strategic thinking. My focus is simple: turn ideas into working systems
+---
+
+## **What I Do:**
+
+- Build AI-driven solutions using Python
+- Develop machine learning prototypes from data preprocessing to implementation
+- Design user-centered product logic aligned with business goals
+- Collaborate in multidisciplinary teams to ship functional products
 
 ---
 
-## Skills & Tools
+## **Core Skills:**
 
-- **Digital Marketing:** Developing and implementing strategies in SEO, social media, content marketing, direct marketing, consumer behavior analysis, commercial negotiation, data-driven business insights, and product marketing strategies to achieve measurable results  
-- **Design/UI-UX:** Figma, Prototyping, User-Centered Design  
-- **Video Editing:** CapCut, Adobe Premiere Pro  
-- **Writing & Creativity:** Blog posts, scripts, ideas in progress  
-- **Coding & Tools:** Exploring scripts, small coding experiments  
+*Artificial Intelligence & Development:*
+- Machine Learning fundamentals
+- Data preprocessing & model implementation
+- Automation & scripting
+
+*Product & Strategy:*
+- Digital marketing strategy
+- Consumer behavior analysis
+- Data-driven decision making
+- Product positioning & validation
+
+*Design & Execution:*
+- UI/UX prototyping (Figma)
+- Rapid prototyping mindset
+- Structured problem-solving 
 
 ---
 
-## What I’m Up To
+## **Current Focus:**
 
-- Learning new tools & tricks every day  
-- Sharing small experiments and creative ideas  
+- Building scalable AI prototypes
+- Strengthening deployment-ready workflows
+- Developing solutions with real-world impact
 
 ---
 
-## Connect with Me
+## **Let's be in touch:**
 
 📧 **Email:** `bouguenaramouad@gmail.com`  
 💼 **LinkedIn:** `https://www.linkedin.com/in/mouad-bouguenara-4714a73a6/`  
 
 ---
 > – m-7chicha  
-
-✨ Thanks for stopping by! Feel free to explore and say hi.  
