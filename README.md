@@ -1,51 +1,36 @@
-# Hi 👋 I’m Mouad (**m-7chicha!**)
+# 👋 Hi, I'm B-Mouad (m-7chicha)
 
-**AI Engineer | Systems Builder | Digital Strategy Thinker**  
-
-I design and build practical, real-world solutions that combine intelligent systems, user-centered design, and strategic thinking. My focus is simple: turn ideas into working systems
----
-
-## **What I Do:**
-
-- Build AI-driven solutions using Python
-- Develop machine learning prototypes from data preprocessing to implementation
-- Design user-centered product logic aligned with business goals
-- Collaborate in multidisciplinary teams to ship functional products
+### **AI-Powered Product Builder | Digital Marketer | Problem Solver**
+*Leveraging AI orchestration to build scalable solutions at the speed of thought.*
 
 ---
 
-## **Core Skills:**
+### ⚡ The "Builder" Philosophy
+I am a hybrid professional who operates at the intersection of **Marketing Strategy** and **Rapid Technical Execution**. I don't just write code; I architect systems. Using AI as my primary engine, I focus on shipping functional, high-impact products while others are still debugging.
 
-*Artificial Intelligence & Development:*
-- Machine Learning fundamentals
-- Data preprocessing & model implementation
-- Automation & scripting
-
-*Product & Strategy:*
-- Digital marketing strategy
-- Consumer behavior analysis
-- Data-driven decision making
-- Product positioning & validation
-
-*Design & Execution:*
-- UI/UX prototyping (Figma)
-- Rapid prototyping mindset
-- Structured problem-solving 
+* **Award-Winning AI Engineer:** 2nd Place at Hackathon Nexus 2026 (Innovation in Data & Finance).
+* **Rapid Prototyper:** Expert in using AI tools to bridge the gap between a "good idea" and a "working system."
+* **Strategic Growth:** Master’s candidate in Digital Marketing with a focus on data-driven decision making.
 
 ---
 
-## **Current Focus:**
+### 🛠 AI-Augmented Stack & Workflow
+> *I don't just write code, I orchestrate systems. My stack is designed for speed, scalability, and strategic impact.*
 
-- Building scalable AI prototypes
-- Strengthening deployment-ready workflows
-- Developing solutions with real-world impact
+* **AI Orchestration:** Prompt Engineering, LLM integration, and AI-augmented development workflows.
+* **Rapid Development:** Full-stack builds for high performance apps.
+* **Data & Automation:** **Python** for machine learning prototypes, automation scripts, and data modeling.
+* **Growth Strategy:** Consumer behavior analysis, market positioning, and data-driven marketing frameworks.
+* **Design Philosophy:** UI/UX prototyping in **Figma** with a focus on minimalist, modern aesthetics.
+---
+
+### 📂 Current Builds
+* **[SHIPY.ai] – E-commerce platform with three interfaces "(M-D-C) + Admins" + Transforming logistics through AI-powered automation.
 
 ---
 
-## **Let's be in touch:**
-
-📧 **Email:** `bouguenaramouad@gmail.com`  
-💼 **LinkedIn:** `https://www.linkedin.com/in/mouad-bouguenara-4714a73a6/`  
+### 📬 Get in Touch
+* **LinkedIn:** [linkedin.com/in/mouad-bouguenara](https://www.linkedin.com/in/mouad-bouguenara)
+* **Email:** [bouguenaramouad@gmail.com](mailto:bouguenaramouad@gmail.com)
 
 ---
-> – m-7chicha  
