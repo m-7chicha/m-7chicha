@@ -23,7 +23,7 @@ I work across product building, AI-assisted development, and digital marketing. 
 
 My approach combines rapid prototyping and automation with thoughtful UX and data-informed growth. I am also pursuing a master's degree in Digital Marketing, with a focus on evidence-led decision-making.
 
-**Recognition:** 2nd place at Hackathon Nexus 2026 — Innovation in Data & Finance.
+**Recognition:** 2nd place at Hackathon Nexus 2026 - Innovation in Data & Finance \ 1st place ENSSEA hackathon - Data science & machine learning \ 1st place ESC - Innovation, Data Analyses, Machine learning 
 
 ## Technologies & tools
 
