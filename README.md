@@ -19,17 +19,45 @@
 
 ## About
 
-I work across product building, AI-assisted development, and digital marketing. I enjoy taking an idea from an early problem or opportunity to a useful, well-crafted digital experience.
+I am an AI & Machine Learning Engineer and Software Engineer working across intelligent systems, full-stack development, and data-driven business solutions.
 
-My approach combines rapid prototyping and automation with thoughtful UX and data-informed growth. I am also pursuing a master's degree in Digital Marketing, with a focus on evidence-led decision-making.
+My work combines machine learning, software architecture, product engineering, business intelligence, and digital marketing strategy. I focus on transforming complex problems into scalable technologies and practical digital products.
+
+Beyond engineering, I bring a strategic understanding of business, innovation, and digital growth, bridging the gap between technical development and real-world impact.
+
+Currently building technology ventures and exploring the intersection of AI, intelligent automation, and digital transformation.
 
 **Recognition:** 2nd place at Hackathon Nexus 2026 - Innovation in Data & Finance \ 1st place ENSSEA hackathon - Data science & machine learning \ 1st place ESC - Innovation, Data Analyses, Machine learning 
 
 ## Technologies & tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,postgres,ts,react,nodejs,figma,git,github" alt="Python, PostgreSQL, TypeScript, React, Node.js, Figma, Git, and GitHub">
-</p>
+### AI & Machine Learning
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&perline=8" alt="PyTorch, TensorFlow, Scikit-learn, and OpenCV">
+
+### Programming Languages
+
+<img src="https://skillicons.dev/icons?i=py,ts,js,c,java&perline=8" alt="Python, TypeScript, JavaScript, C, and Java">
+
+### Frontend Engineering
+
+<img src="https://skillicons.dev/icons?i=react,vite,html,css,tailwind&perline=8" alt="React, Vite, HTML, CSS, and Tailwind CSS">
+
+### Backend Engineering
+
+<img src="https://skillicons.dev/icons?i=nodejs,express&perline=8" alt="Node.js and Express.js">
+
+### Databases & Data Engineering
+
+<img src="https://skillicons.dev/icons?i=postgres,sqlite,mongodb,redis,prisma,supabase&perline=8" alt="PostgreSQL, SQLite, MongoDB, Redis, Prisma, and Supabase">
+
+### Cloud Infrastructure & DevOps
+
+<img src="https://skillicons.dev/icons?i=docker,linux,bash,cloudflare&perline=8" alt="Docker, Linux, Bash, and Cloudflare">
+
+### Development Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&perline=8" alt="Git, GitHub, VS Code, Postman, and Figma">
 
 ## Connect
 
