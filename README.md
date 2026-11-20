@@ -41,11 +41,11 @@ Currently building technology ventures and exploring the intersection of AI, int
 
 ### Frontend Engineering
 
-<img src="https://skillicons.dev/icons?i=react,vite,html,css,tailwind&perline=8" alt="React, Vite, HTML, CSS, and Tailwind CSS">
+<img src="https://skillicons.dev/icons?i=ts,react,vite,html,css,tailwind&perline=8" alt="TypeScript, React, Vite, HTML, CSS, and Tailwind CSS">
 
 ### Backend Engineering
 
-<img src="https://skillicons.dev/icons?i=nodejs,express&perline=8" alt="Node.js and Express.js">
+<img src="https://skillicons.dev/icons?i=ts,nodejs,express&perline=8" alt="TypeScript, Node.js, and Express.js">
 
 ### Databases & Data Engineering
 
